@@ -67,11 +67,8 @@
 
 <br/>
 
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=BANKLORD&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BANKLORD/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=BANKLORD&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BANKLORD/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=BANKLORD&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BANKLORD/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=BANKLORD&repo=BANKLORD&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BANKLORD/BANKLORD)
+## Top Open Source :
+[![BANKLORD Readme](https://github-readme-stats.vercel.app/api/pin/?username=BANKLORD&repo=BANKLORD&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BANKLORD/BANKLORD)
 
 <p align="left">
   <a href="https://github.com/BANKLORD?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
